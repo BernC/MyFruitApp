@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MonFruitApp</string>
+    <string name="action_settings">Réglages</string>
+    <string name="title_activity_fruit_info">FruitInfos</string>
+    <string name="title_activity_fruit_info_screen">FruitInfosCrible</string>
+    <string name="orange_start">Orange</string>
+    <string name="apple_start">Pomme</string>
+    <string name="pear_start">Poire</string>
+    <string name="orange_description">Oranges sont les agrumes avec parfumée, la peau tannée et chair juteuse. Les types les plus courants sont le sucré (ou commune) orange, l\'aigre (ou Séville) orange et la mandarine.</string>
+    <string name="apple_description">Les pommes sont un des fruits les plus cultivées de l\'monde. Les gens les ont mangés depuis les temps anciens. Il existe des milliers de variétés de pommes. Ils poussent sur les arbres qui appartiennent à la même famille scientifique roses.</string>
+    <string name="pear_description">Les poires sont un fruit populaire qui peut être séchés, cuits ou consommés frais. Les gens utilisent les poires dans les salades, les desserts et les confitures. Ils boivent aussi du jus de poire. Les poires sont une bonne source de potassium et de fibres.</string>
+    <color name="orange_comp">#00B74A</color>
+    <color name="apple_comp">#75EE3B</color>
+    <color name="pear_comp">#ED002F</color>
+    <color name="main_bg">#FF7F00</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="orange">#FF7F00</color>
+        
+
+</resources>
